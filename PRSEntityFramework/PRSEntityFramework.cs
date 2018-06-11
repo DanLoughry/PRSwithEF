@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrsEF
 {
-	public class Program
-	{
-		static void Main(string[] args)
-		{
-		}
-	}
+    public class PRSEntityFramework    {
+
+    }
 }
